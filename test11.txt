@@ -1,1 +1,1 @@
-I am studying Git command
+I am studying Git command on branch 1
