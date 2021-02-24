@@ -1,1 +1,3 @@
 I am studying Git command on branch 1
+I am studying Git command on branch 2
+Git reset
